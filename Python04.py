@@ -39,7 +39,7 @@ print(frequence_count([1,23,4,4,4,5,6,6,6,7,7,8,8,8,9,9,9]))
 
 
 
-Find the first character is not repeating in the string 
+#Find the first character is not repeating in the string 
 
 def first_non_repeating_char(word):
     freq = {}
